@@ -1,1 +1,2 @@
 pub mod test_concatenation_of_array;
+mod test_score_of_a_string;
